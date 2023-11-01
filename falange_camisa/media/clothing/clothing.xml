@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<outfitManager>
+
+    <m_MaleOutfits>
+        <m_Name>Camiseta Falange</m_Name>
+        <m_Guid>0f92c7a0-c103-4abc-9f3c-0dfb8154c79a</m_Guid>
+        <m_Top>true</m_Top>
+        <m_Pants>false</m_Pants>
+        <m_AllowPantsHue>false</m_AllowPantsHue>
+        <m_AllowTopTint>false</m_AllowTopTint>
+        <m_AllowTShirtDecal>false</m_AllowTShirtDecal>
+        <m_items>
+            <probability>0.7</probability>
+            <itemGUID>4880c0a4-5b8b-438d-8bf5-c9320a234a05</itemGUID>
+        </m_items>
+        <x>102</x>
+        <y>118</y>
+        <width>52</width>
+        <height>52</height>
+    </m_MaleOutfits>
+
+    <m_FemaleOutfits>
+        <m_Name>Camiseta Falange</m_Name>
+        <m_Guid>0f92c7a0-c103-4abc-9f3c-0dfb8154c79a</m_Guid>
+        <m_Top>true</m_Top>
+        <m_Pants>false</m_Pants>
+        <m_AllowPantsHue>false</m_AllowPantsHue>
+        <m_AllowTopTint>false</m_AllowTopTint>
+        <m_AllowTShirtDecal>false</m_AllowTShirtDecal>
+        <m_items>
+            <probability>0.7</probability>
+            <itemGUID>4880c0a4-5b8b-438d-8bf5-c9320a234a05</itemGUID>
+        </m_items>
+        <x>102</x>
+        <y>118</y>
+        <width>52</width>
+        <height>52</height>
+    </m_FemaleOutfits>
+
+</outfitManager>
