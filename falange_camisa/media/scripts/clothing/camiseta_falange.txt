@@ -1,0 +1,17 @@
+module FALANGE
+{
+	item camiseta_falange
+	{
+		Type				 = Clothing,
+		DisplayName			 = Camiseta falange,
+		ClothingItem		 = camiseta_falange,
+		BodyLocation		 = Tshirt,
+		Icon				 = falange,
+		BloodLocation		 = Shirt,
+        Insulation			 = 0.2,
+        WindResistance		 = 0.2,
+		Weight				 = 0.3,
+        FabricType			 = Cotton,
+        WorldStaticModel	 = Tshirt_Ground,
+	}
+}
