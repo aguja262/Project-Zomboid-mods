@@ -1,0 +1,17 @@
+module VOX
+{
+	item Shirt_VOX
+	{
+		DisplayCategory = Clothing,
+		Type				= Clothing,
+		DisplayName			= VOX Shirt,
+		ClothingItem		= Shirt_VOX,
+		BodyLocation		= Shirt,
+		Icon				= VOXicon,
+		BloodLocation		= ShirtLongSleeves,
+        Insulation			= 0.2,
+        WindResistance		= 0.2,
+        FabricType			= Cotton,
+        WorldStaticModel	= Shirt_Ground,
+	}
+}

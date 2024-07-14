@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<outfitManager>
+
+<m_MaleOutfits>
+		<m_Name>VOX</m_Name>
+		<m_Guid>VOX-0da1-4630-b5aa-1a70b3d716b4</m_Guid>
+		<m_Top>false</m_Top>
+		<m_Pants>false</m_Pants>
+		<m_AllowPantsHue>false</m_AllowPantsHue>
+		<m_AllowTopTint>false</m_AllowTopTint>
+		<m_AllowTShirtDecal>false</m_AllowTShirtDecal>
+		<m_items>
+			<probability>0.7</probability>
+			<itemGUID>VOX-0da1-4630-b5aa-1a70b3d716b4</itemGUID>
+		</m_items>
+		<m_items>
+			<probability>0.7</probability>
+			<itemGUID>VOX-0da1-4630-b5aa-1a70b3d716b4</itemGUID>
+		</m_items>
+		<x>102</x>
+		<y>118</y>
+		<width>52</width>
+		<height>52</height>
+	</m_MaleOutfits>
+
+<m_FemaleOutfits>
+		<m_Name>VOX</m_Name>
+		<m_Guid>VOX-0da1-4630-b5aa-1a70b3d716b4</m_Guid>
+		<m_Top>false</m_Top>
+		<m_Pants>false</m_Pants>
+		<m_AllowPantsHue>false</m_AllowPantsHue>
+		<m_AllowTopTint>false</m_AllowTopTint>
+		<m_AllowTShirtDecal>false</m_AllowTShirtDecal>
+		<m_items>
+			<probability>0.7</probability>
+			<itemGUID>VOX-0da1-4630-b5aa-1a70b3d716b4</itemGUID>
+		</m_items>
+		<m_items>
+			<probability>0.7</probability>
+			<itemGUID>VOX-0da1-4630-b5aa-1a70b3d716b4</itemGUID>
+		</m_items>
+		<x>102</x>
+		<y>118</y>
+		<width>52</width>
+		<height>52</height>
+	</m_FemaleOutfits>
+
+</outfitManager>
